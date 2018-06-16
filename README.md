@@ -6,4 +6,5 @@
 Free Arduino Plugin for Unreal Engine 4
 
 
-<p style="color:red;">I am red</p>
+
+<p align="center"> For more </p>
