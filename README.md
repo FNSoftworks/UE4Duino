@@ -6,7 +6,7 @@
 Free Arduino Plugin for Unreal Engine 4
 
 
-<p font-weight:bold>
+<p font-weight="bold">
 ss
 </p
 
