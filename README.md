@@ -7,4 +7,4 @@ Free Arduino Plugin for Unreal Engine 4
 
 
 
-<p align="center"> For more </p>
+<p style="font-size:50px> For more </p>
