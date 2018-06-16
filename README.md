@@ -6,5 +6,5 @@
 Free Arduino Plugin for Unreal Engine 4
 
 
-<font size="65">This is some text!</font>
+<p style="font-size:50px;">I am big</p>
 
